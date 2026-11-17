@@ -1,0 +1,10700 @@
+[
+  [
+    "identity.connect",
+    {
+      "id": "p0",
+      "devices": [
+        "d0",
+        "family0"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p1",
+      "devices": [
+        "d1",
+        "family0"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p2",
+      "devices": [
+        "d2",
+        "family0"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p3",
+      "devices": [
+        "d3",
+        "family1"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p4",
+      "devices": [
+        "d4",
+        "family1"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p5",
+      "devices": [
+        "d5",
+        "family1"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p6",
+      "devices": [
+        "d6",
+        "family2"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p7",
+      "devices": [
+        "d7",
+        "family2"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p8",
+      "devices": [
+        "d8",
+        "family2"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p9",
+      "devices": [
+        "d9",
+        "family3"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p10",
+      "devices": [
+        "d10",
+        "family3"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p11",
+      "devices": [
+        "d11",
+        "family3"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p12",
+      "devices": [
+        "d12",
+        "family4"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p13",
+      "devices": [
+        "d13",
+        "family4"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p14",
+      "devices": [
+        "d14",
+        "family4"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p15",
+      "devices": [
+        "d15",
+        "family5"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p16",
+      "devices": [
+        "d16",
+        "family5"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p17",
+      "devices": [
+        "d17",
+        "family5"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p18",
+      "devices": [
+        "d18",
+        "family6"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p19",
+      "devices": [
+        "d19",
+        "family6"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p20",
+      "devices": [
+        "d20",
+        "family6"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p21",
+      "devices": [
+        "d21",
+        "family7"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p22",
+      "devices": [
+        "d22",
+        "family7"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p23",
+      "devices": [
+        "d23",
+        "family7"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p24",
+      "devices": [
+        "d24",
+        "family8"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p25",
+      "devices": [
+        "d25",
+        "family8"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p26",
+      "devices": [
+        "d26",
+        "family8"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p27",
+      "devices": [
+        "d27",
+        "family9"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p28",
+      "devices": [
+        "d28",
+        "family9"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p29",
+      "devices": [
+        "d29",
+        "family9"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p30",
+      "devices": [
+        "d30",
+        "family10"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p31",
+      "devices": [
+        "d31",
+        "family10"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p32",
+      "devices": [
+        "d32",
+        "family10"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p33",
+      "devices": [
+        "d33",
+        "family11"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p34",
+      "devices": [
+        "d34",
+        "family11"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p35",
+      "devices": [
+        "d35",
+        "family11"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p36",
+      "devices": [
+        "d36",
+        "family12"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p37",
+      "devices": [
+        "d37",
+        "family12"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p38",
+      "devices": [
+        "d38",
+        "family12"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p39",
+      "devices": [
+        "d39",
+        "family13"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p40",
+      "devices": [
+        "d40",
+        "family13"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p41",
+      "devices": [
+        "d41",
+        "family13"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p42",
+      "devices": [
+        "d42",
+        "family14"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p43",
+      "devices": [
+        "d43",
+        "family14"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p44",
+      "devices": [
+        "d44",
+        "family14"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p45",
+      "devices": [
+        "d45",
+        "family15"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p46",
+      "devices": [
+        "d46",
+        "family15"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p47",
+      "devices": [
+        "d47",
+        "family15"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p48",
+      "devices": [
+        "d48",
+        "family16"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p49",
+      "devices": [
+        "d49",
+        "family16"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p50",
+      "devices": [
+        "d50",
+        "family16"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p51",
+      "devices": [
+        "d51",
+        "family17"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p52",
+      "devices": [
+        "d52",
+        "family17"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p53",
+      "devices": [
+        "d53",
+        "family17"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p54",
+      "devices": [
+        "d54",
+        "family18"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p55",
+      "devices": [
+        "d55",
+        "family18"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p56",
+      "devices": [
+        "d56",
+        "family18"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p57",
+      "devices": [
+        "d57",
+        "family19"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p58",
+      "devices": [
+        "d58",
+        "family19"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p59",
+      "devices": [
+        "d59",
+        "family19"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p60",
+      "devices": [
+        "d60",
+        "family20"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p61",
+      "devices": [
+        "d61",
+        "family20"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p62",
+      "devices": [
+        "d62",
+        "family20"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p63",
+      "devices": [
+        "d63",
+        "family21"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p64",
+      "devices": [
+        "d64",
+        "family21"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p65",
+      "devices": [
+        "d65",
+        "family21"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p66",
+      "devices": [
+        "d66",
+        "family22"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p67",
+      "devices": [
+        "d67",
+        "family22"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p68",
+      "devices": [
+        "d68",
+        "family22"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p69",
+      "devices": [
+        "d69",
+        "family23"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p70",
+      "devices": [
+        "d70",
+        "family23"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p71",
+      "devices": [
+        "d71",
+        "family23"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p72",
+      "devices": [
+        "d72",
+        "family24"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p73",
+      "devices": [
+        "d73",
+        "family24"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p74",
+      "devices": [
+        "d74",
+        "family24"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p75",
+      "devices": [
+        "d75",
+        "family25"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p76",
+      "devices": [
+        "d76",
+        "family25"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p77",
+      "devices": [
+        "d77",
+        "family25"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p78",
+      "devices": [
+        "d78",
+        "family26"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p79",
+      "devices": [
+        "d79",
+        "family26"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p80",
+      "devices": [
+        "d80",
+        "family26"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p81",
+      "devices": [
+        "d81",
+        "family27"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p82",
+      "devices": [
+        "d82",
+        "family27"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p83",
+      "devices": [
+        "d83",
+        "family27"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p84",
+      "devices": [
+        "d84",
+        "family28"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p85",
+      "devices": [
+        "d85",
+        "family28"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p86",
+      "devices": [
+        "d86",
+        "family28"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p87",
+      "devices": [
+        "d87",
+        "family29"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p88",
+      "devices": [
+        "d88",
+        "family29"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p89",
+      "devices": [
+        "d89",
+        "family29"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p90",
+      "devices": [
+        "d90",
+        "family30"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p91",
+      "devices": [
+        "d91",
+        "family30"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p92",
+      "devices": [
+        "d92",
+        "family30"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p93",
+      "devices": [
+        "d93",
+        "family31"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p94",
+      "devices": [
+        "d94",
+        "family31"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p95",
+      "devices": [
+        "d95",
+        "family31"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p96",
+      "devices": [
+        "d96",
+        "family32"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p97",
+      "devices": [
+        "d97",
+        "family32"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p98",
+      "devices": [
+        "d98",
+        "family32"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p99",
+      "devices": [
+        "d99",
+        "family33"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p100",
+      "devices": [
+        "d100",
+        "family33"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p101",
+      "devices": [
+        "d101",
+        "family33"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p102",
+      "devices": [
+        "d102",
+        "family34"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p103",
+      "devices": [
+        "d103",
+        "family34"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p104",
+      "devices": [
+        "d104",
+        "family34"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p105",
+      "devices": [
+        "d105",
+        "family35"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p106",
+      "devices": [
+        "d106",
+        "family35"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p107",
+      "devices": [
+        "d107",
+        "family35"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p108",
+      "devices": [
+        "d108",
+        "family36"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p109",
+      "devices": [
+        "d109",
+        "family36"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p110",
+      "devices": [
+        "d110",
+        "family36"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p111",
+      "devices": [
+        "d111",
+        "family37"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p112",
+      "devices": [
+        "d112",
+        "family37"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p113",
+      "devices": [
+        "d113",
+        "family37"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p114",
+      "devices": [
+        "d114",
+        "family38"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p115",
+      "devices": [
+        "d115",
+        "family38"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p116",
+      "devices": [
+        "d116",
+        "family38"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p117",
+      "devices": [
+        "d117",
+        "family39"
+      ],
+      "consent": false
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p118",
+      "devices": [
+        "d118",
+        "family39"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p119",
+      "devices": [
+        "d119",
+        "family39"
+      ],
+      "consent": true
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v0",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-01",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v1",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-07-01",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v2",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-07-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v3",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-07-01",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v4",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-01",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v5",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-07-01",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v6",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-07-01",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v7",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-07-01",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v8",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-01",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v9",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-07-01",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v10",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-07-01",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v11",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-07-01",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v12",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-02",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v13",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-07-02",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v14",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-07-02",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v15",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-07-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v16",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-02",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v17",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-07-02",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v18",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-07-02",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v19",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-07-02",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v20",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v21",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-07-02",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v22",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-07-02",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v23",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-07-02",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v24",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-03",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v25",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-07-03",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v26",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-07-03",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v27",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-07-03",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v28",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-03",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v29",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-07-03",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v30",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-07-03",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v31",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-07-03",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v32",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-03",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v33",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-07-03",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v34",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-07-03",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v35",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-07-03",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v36",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-04",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v37",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-07-04",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v38",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-07-04",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v39",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-07-04",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v40",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-04",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v41",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-07-04",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v42",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-07-04",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v43",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-07-04",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v44",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-04",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v45",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-07-04",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v46",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-07-04",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v47",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-07-04",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v48",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-05",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v49",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-07-05",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v50",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-07-05",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v51",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-07-05",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v52",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-05",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v53",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-07-05",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v54",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-07-05",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v55",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-07-05",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v56",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-05",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v57",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-07-05",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v58",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-07-05",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v59",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-07-05",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v60",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-06",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v61",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-07-06",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v62",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-07-06",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v63",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-07-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v64",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v65",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-07-06",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v66",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-07-06",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v67",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-07-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v68",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-06",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v69",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-07-06",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v70",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-07-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v71",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-07-06",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v72",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-07",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v73",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-07-07",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v74",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-07-07",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v75",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-07-07",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v76",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-07",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v77",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-07-07",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v78",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-07-07",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v79",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-07-07",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v80",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-07",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v81",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-07-07",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v82",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-07-07",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v83",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-07-07",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v84",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-08",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v85",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-07-08",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v86",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-07-08",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v87",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-07-08",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v88",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v89",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-07-08",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v90",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-07-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v91",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-07-08",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v92",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-08",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v93",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-07-08",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v94",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-07-08",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v95",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-07-08",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v96",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-09",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v97",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-07-09",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v98",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-07-09",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v99",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-07-09",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v100",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-09",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v101",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-07-09",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v102",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-07-09",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v103",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-07-09",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v104",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-09",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v105",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-07-09",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v106",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-07-09",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v107",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-07-09",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v108",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-10",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v109",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-07-10",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v110",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-07-10",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v111",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-07-10",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v112",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-10",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v113",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-07-10",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v114",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-07-10",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v115",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-07-10",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v116",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-10",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v117",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-07-10",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v118",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-07-10",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v119",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-07-10",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v120",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-11",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v121",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-07-11",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v122",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-07-11",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v123",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-07-11",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v124",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-11",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v125",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-07-11",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v126",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-07-11",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v127",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-07-11",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v128",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-11",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v129",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-07-11",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v130",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-07-11",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v131",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-07-11",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v132",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-12",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v133",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-07-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v134",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-07-12",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v135",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-07-12",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v136",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v137",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-07-12",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v138",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-07-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v139",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-07-12",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v140",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v141",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-07-12",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v142",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-07-12",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v143",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-07-12",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v144",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-13",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v145",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-07-13",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v146",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-07-13",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v147",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-07-13",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v148",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-13",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v149",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-07-13",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v150",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-07-13",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v151",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-07-13",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v152",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-13",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v153",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-07-13",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v154",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-07-13",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v155",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-07-13",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v156",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-14",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v157",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-07-14",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v158",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-07-14",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v159",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-07-14",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v160",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-14",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v161",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-07-14",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v162",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-07-14",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v163",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-07-14",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v164",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-14",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v165",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-07-14",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v166",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-07-14",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v167",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-07-14",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v168",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v169",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-07-15",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v170",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v171",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v172",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-15",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v173",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v174",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v175",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v176",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-15",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v177",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-07-15",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v178",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-07-15",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v179",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-07-15",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v180",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-16",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v181",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-07-16",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v182",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-07-16",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v183",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-07-16",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v184",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-16",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v185",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-07-16",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v186",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-07-16",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v187",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-07-16",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v188",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-16",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v189",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-07-16",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v190",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-07-16",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v191",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-07-16",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v192",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-17",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v193",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-07-17",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v194",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-07-17",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v195",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-07-17",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v196",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-17",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v197",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-07-17",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v198",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-07-17",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v199",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-07-17",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v200",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-17",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v201",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-07-17",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v202",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-07-17",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v203",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-07-17",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v204",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-18",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v205",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-07-18",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v206",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-07-18",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v207",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-07-18",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v208",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-18",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v209",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-07-18",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v210",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-07-18",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v211",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-07-18",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v212",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-18",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v213",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-07-18",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v214",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-07-18",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v215",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-07-18",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v216",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-19",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v217",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-07-19",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v218",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-07-19",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v219",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-07-19",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v220",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-19",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v221",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-07-19",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v222",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-07-19",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v223",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-07-19",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v224",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-19",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v225",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-07-19",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v226",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-07-19",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v227",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-07-19",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v228",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-20",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v229",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-07-20",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v230",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-07-20",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v231",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-07-20",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v232",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-20",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v233",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-07-20",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v234",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-07-20",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v235",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-07-20",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v236",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-20",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v237",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-07-20",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v238",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-07-20",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v239",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-07-20",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v240",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-21",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v241",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-07-21",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v242",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-07-21",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v243",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-07-21",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v244",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-21",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v245",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-07-21",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v246",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-07-21",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v247",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-07-21",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v248",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-21",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v249",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-07-21",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v250",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-07-21",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v251",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-07-21",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v252",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-22",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v253",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-07-22",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v254",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-07-22",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v255",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-07-22",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v256",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-22",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v257",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-07-22",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v258",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-07-22",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v259",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-07-22",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v260",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-22",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v261",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-07-22",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v262",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-07-22",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v263",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-07-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v264",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-23",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v265",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-07-23",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v266",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-07-23",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v267",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-07-23",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v268",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-23",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v269",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-07-23",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v270",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-07-23",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v271",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-07-23",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v272",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-23",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v273",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-07-23",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v274",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-07-23",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v275",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-07-23",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v276",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-24",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v277",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-07-24",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v278",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-07-24",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v279",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-07-24",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v280",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-24",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v281",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-07-24",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v282",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-07-24",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v283",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-07-24",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v284",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-24",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v285",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-07-24",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v286",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-07-24",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v287",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-07-24",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v288",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-25",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v289",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-07-25",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v290",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-07-25",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v291",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-07-25",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v292",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-25",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v293",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-07-25",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v294",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-07-25",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v295",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-07-25",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v296",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-25",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v297",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-07-25",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v298",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-07-25",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v299",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-07-25",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v300",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-26",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v301",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-07-26",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v302",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-07-26",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v303",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-07-26",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v304",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-26",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v305",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-07-26",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v306",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-07-26",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v307",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-07-26",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v308",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-26",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v309",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-07-26",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v310",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-07-26",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v311",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-07-26",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v312",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-27",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v313",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-07-27",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v314",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-07-27",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v315",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-07-27",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v316",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-27",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v317",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-07-27",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v318",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-07-27",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v319",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-07-27",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v320",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-27",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v321",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-07-27",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v322",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-07-27",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v323",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-07-27",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v324",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-28",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v325",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-07-28",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v326",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-07-28",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v327",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-07-28",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v328",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-28",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v329",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-07-28",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v330",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-07-28",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v331",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-07-28",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v332",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-07-28",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v333",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-07-28",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v334",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-07-28",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v335",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-07-28",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v336",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-07-29",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v337",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-07-29",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v338",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-07-29",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v339",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-07-29",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v340",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-07-29",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v341",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-07-29",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v342",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-07-29",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v343",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-07-29",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v344",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-07-29",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v345",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-07-29",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v346",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-07-29",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v347",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-07-29",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v348",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-07-30",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v349",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-07-30",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v350",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-07-30",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v351",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-07-30",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v352",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-07-30",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v353",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-07-30",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v354",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-07-30",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v355",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-07-30",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v356",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-07-30",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v357",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-07-30",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v358",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-07-30",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v359",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-07-30",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v360",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-07-31",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v361",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-07-31",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v362",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-07-31",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v363",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-07-31",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v364",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-07-31",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v365",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-07-31",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v366",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-07-31",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v367",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-07-31",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v368",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-07-31",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v369",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-07-31",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v370",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-07-31",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v371",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-07-31",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v372",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v373",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-08-01",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v374",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-08-01",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v375",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-08-01",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v376",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v377",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-08-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v378",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-08-01",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v379",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-08-01",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v380",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-01",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v381",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-08-01",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v382",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-08-01",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v383",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-08-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v384",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-02",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v385",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-08-02",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v386",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-08-02",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v387",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-08-02",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v388",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v389",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-08-02",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v390",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-08-02",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v391",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-08-02",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v392",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v393",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-08-02",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v394",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-08-02",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v395",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-08-02",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v396",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-03",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v397",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-08-03",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v398",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-08-03",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v399",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-08-03",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v400",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-03",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v401",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-08-03",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v402",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-08-03",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v403",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-08-03",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v404",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-03",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v405",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-08-03",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v406",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-08-03",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v407",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-08-03",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v408",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-04",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v409",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-08-04",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v410",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-08-04",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v411",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-08-04",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v412",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-04",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v413",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-08-04",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v414",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-08-04",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v415",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-08-04",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v416",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-04",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v417",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-08-04",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v418",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-08-04",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v419",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-08-04",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v420",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v421",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-08-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v422",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-08-05",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v423",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-08-05",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v424",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-05",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v425",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-08-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v426",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-08-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v427",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-08-05",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v428",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-05",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v429",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-08-05",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v430",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-08-05",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v431",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-08-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v432",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v433",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-08-06",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v434",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-08-06",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v435",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-08-06",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v436",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-06",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v437",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-08-06",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v438",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-08-06",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v439",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-08-06",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v440",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-06",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v441",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-08-06",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v442",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-08-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v443",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-08-06",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v444",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-07",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v445",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-08-07",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v446",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-08-07",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v447",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-08-07",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v448",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-07",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v449",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-08-07",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v450",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-08-07",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v451",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-08-07",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v452",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-07",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v453",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-08-07",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v454",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-08-07",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v455",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-08-07",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v456",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-08",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v457",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-08-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v458",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-08-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v459",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-08-08",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v460",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-08",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v461",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-08-08",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v462",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-08-08",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v463",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-08-08",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v464",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-08",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v465",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-08-08",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v466",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-08-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v467",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-08-08",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v468",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-09",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v469",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-08-09",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v470",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-08-09",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v471",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-08-09",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v472",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-09",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v473",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-08-09",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v474",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-08-09",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v475",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-08-09",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v476",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-09",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v477",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-08-09",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v478",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-08-09",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v479",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-08-09",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v480",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-10",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v481",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-08-10",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v482",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-08-10",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v483",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-08-10",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v484",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-10",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v485",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-08-10",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v486",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-08-10",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v487",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-08-10",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v488",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-10",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v489",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-08-10",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v490",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-08-10",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v491",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-08-10",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v492",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-11",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v493",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-08-11",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v494",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-08-11",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v495",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-08-11",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v496",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-11",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v497",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-08-11",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v498",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-08-11",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v499",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-08-11",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v500",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-11",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v501",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-08-11",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v502",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-08-11",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v503",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-08-11",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v504",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v505",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-08-12",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v506",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-08-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v507",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-08-12",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v508",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-12",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v509",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-08-12",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v510",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-08-12",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v511",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-08-12",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v512",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-12",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v513",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-08-12",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v514",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-08-12",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v515",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-08-12",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v516",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-13",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v517",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-08-13",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v518",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-08-13",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v519",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-08-13",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v520",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-13",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v521",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-08-13",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v522",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-08-13",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v523",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-08-13",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v524",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-13",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v525",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-08-13",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v526",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-08-13",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v527",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-08-13",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v528",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-14",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v529",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-08-14",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v530",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-08-14",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v531",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-08-14",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v532",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-14",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v533",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-08-14",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v534",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-08-14",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v535",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-08-14",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v536",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-14",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v537",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-08-14",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v538",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-08-14",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v539",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-08-14",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v540",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-15",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v541",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-08-15",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v542",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-08-15",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v543",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-08-15",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v544",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-15",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v545",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-08-15",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v546",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-08-15",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v547",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-08-15",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v548",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-15",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v549",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-08-15",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v550",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-08-15",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v551",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-08-15",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v552",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-16",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v553",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-08-16",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v554",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-08-16",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v555",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-08-16",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v556",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-16",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v557",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-08-16",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v558",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-08-16",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v559",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-08-16",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v560",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-16",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v561",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-08-16",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v562",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-08-16",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v563",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-08-16",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v564",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-17",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v565",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-08-17",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v566",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-08-17",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v567",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-08-17",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v568",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-17",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v569",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-08-17",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v570",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-08-17",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v571",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-08-17",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v572",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-17",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v573",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-08-17",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v574",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-08-17",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v575",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-08-17",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v576",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-18",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v577",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-08-18",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v578",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-08-18",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v579",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-08-18",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v580",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-18",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v581",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-08-18",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v582",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-08-18",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v583",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-08-18",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v584",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-18",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v585",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-08-18",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v586",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-08-18",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v587",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-08-18",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v588",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-19",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v589",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-08-19",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v590",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-08-19",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v591",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-08-19",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v592",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-19",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v593",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-08-19",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v594",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-08-19",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v595",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-08-19",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v596",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-19",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v597",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-08-19",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v598",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-08-19",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v599",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-08-19",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v600",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-20",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v601",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-08-20",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v602",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-08-20",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v603",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-08-20",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v604",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-20",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v605",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-08-20",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v606",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-08-20",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v607",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-08-20",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v608",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-20",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v609",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-08-20",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v610",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-08-20",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v611",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-08-20",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v612",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-21",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v613",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v614",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v615",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v616",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-21",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v617",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v618",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v619",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v620",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-21",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v621",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v622",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-08-21",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v623",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-08-21",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v624",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v625",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v626",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-08-22",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v627",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v628",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v629",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v630",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-08-22",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v631",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v632",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v633",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-08-22",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v634",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-08-22",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v635",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-08-22",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v636",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-23",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v637",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-08-23",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v638",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-08-23",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v639",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-08-23",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v640",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-23",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v641",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-08-23",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v642",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-08-23",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v643",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-08-23",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v644",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-23",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v645",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-08-23",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v646",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-08-23",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v647",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-08-23",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v648",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-24",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v649",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-08-24",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v650",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-08-24",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v651",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-08-24",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v652",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-24",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v653",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-08-24",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v654",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-08-24",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v655",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-08-24",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v656",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-24",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v657",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-08-24",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v658",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-08-24",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v659",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-08-24",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v660",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-25",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v661",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-08-25",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v662",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-08-25",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v663",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-08-25",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v664",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-25",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v665",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-08-25",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v666",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-08-25",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v667",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-08-25",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v668",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-25",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v669",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-08-25",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v670",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-08-25",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v671",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-08-25",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v672",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-26",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v673",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-08-26",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v674",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-08-26",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v675",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-08-26",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v676",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-26",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v677",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-08-26",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v678",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-08-26",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v679",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-08-26",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v680",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-26",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v681",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-08-26",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v682",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-08-26",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v683",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-08-26",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v684",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-27",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v685",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-08-27",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v686",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-08-27",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v687",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-08-27",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v688",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-27",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v689",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-08-27",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v690",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-08-27",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v691",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-08-27",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v692",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-27",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v693",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-08-27",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v694",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-08-27",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v695",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-08-27",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v696",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-28",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v697",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-08-28",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v698",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-08-28",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v699",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-08-28",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v700",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-28",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v701",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-08-28",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v702",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-08-28",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v703",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-08-28",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v704",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-08-28",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v705",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-08-28",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v706",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-08-28",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v707",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-08-28",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v708",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-08-29",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v709",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v710",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v711",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v712",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v713",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-08-29",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v714",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-08-29",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v715",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v716",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-08-29",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v717",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v718",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-08-29",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v719",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-08-29",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v720",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-08-30",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v721",
+      "device": "d1",
+      "venue": "v1",
+      "at": "2026-08-30",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v722",
+      "device": "d2",
+      "venue": "v2",
+      "at": "2026-08-30",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v723",
+      "device": "d3",
+      "venue": "v3",
+      "at": "2026-08-30",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v724",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-08-30",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v725",
+      "device": "d5",
+      "venue": "v1",
+      "at": "2026-08-30",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v726",
+      "device": "d6",
+      "venue": "v2",
+      "at": "2026-08-30",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v727",
+      "device": "d7",
+      "venue": "v3",
+      "at": "2026-08-30",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v728",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-08-30",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v729",
+      "device": "d9",
+      "venue": "v1",
+      "at": "2026-08-30",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v730",
+      "device": "d10",
+      "venue": "v2",
+      "at": "2026-08-30",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v731",
+      "device": "d11",
+      "venue": "v3",
+      "at": "2026-08-30",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v732",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-08-31",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v733",
+      "device": "d13",
+      "venue": "v1",
+      "at": "2026-08-31",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v734",
+      "device": "d14",
+      "venue": "v2",
+      "at": "2026-08-31",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v735",
+      "device": "d15",
+      "venue": "v3",
+      "at": "2026-08-31",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v736",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-08-31",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v737",
+      "device": "d17",
+      "venue": "v1",
+      "at": "2026-08-31",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v738",
+      "device": "d18",
+      "venue": "v2",
+      "at": "2026-08-31",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v739",
+      "device": "d19",
+      "venue": "v3",
+      "at": "2026-08-31",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v740",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-08-31",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v741",
+      "device": "d21",
+      "venue": "v1",
+      "at": "2026-08-31",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v742",
+      "device": "d22",
+      "venue": "v2",
+      "at": "2026-08-31",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v743",
+      "device": "d23",
+      "venue": "v3",
+      "at": "2026-08-31",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v744",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-09-01",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v745",
+      "device": "d25",
+      "venue": "v1",
+      "at": "2026-09-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v746",
+      "device": "d26",
+      "venue": "v2",
+      "at": "2026-09-01",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v747",
+      "device": "d27",
+      "venue": "v3",
+      "at": "2026-09-01",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v748",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-09-01",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v749",
+      "device": "d29",
+      "venue": "v1",
+      "at": "2026-09-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v750",
+      "device": "d30",
+      "venue": "v2",
+      "at": "2026-09-01",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v751",
+      "device": "d31",
+      "venue": "v3",
+      "at": "2026-09-01",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v752",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-09-01",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v753",
+      "device": "d33",
+      "venue": "v1",
+      "at": "2026-09-01",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v754",
+      "device": "d34",
+      "venue": "v2",
+      "at": "2026-09-01",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v755",
+      "device": "d35",
+      "venue": "v3",
+      "at": "2026-09-01",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v756",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-09-02",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v757",
+      "device": "d37",
+      "venue": "v1",
+      "at": "2026-09-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v758",
+      "device": "d38",
+      "venue": "v2",
+      "at": "2026-09-02",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v759",
+      "device": "d39",
+      "venue": "v3",
+      "at": "2026-09-02",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v760",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-09-02",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v761",
+      "device": "d41",
+      "venue": "v1",
+      "at": "2026-09-02",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v762",
+      "device": "d42",
+      "venue": "v2",
+      "at": "2026-09-02",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v763",
+      "device": "d43",
+      "venue": "v3",
+      "at": "2026-09-02",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v764",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-09-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v765",
+      "device": "d45",
+      "venue": "v1",
+      "at": "2026-09-02",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v766",
+      "device": "d46",
+      "venue": "v2",
+      "at": "2026-09-02",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v767",
+      "device": "d47",
+      "venue": "v3",
+      "at": "2026-09-02",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v768",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-09-03",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v769",
+      "device": "d49",
+      "venue": "v1",
+      "at": "2026-09-03",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v770",
+      "device": "d50",
+      "venue": "v2",
+      "at": "2026-09-03",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v771",
+      "device": "d51",
+      "venue": "v3",
+      "at": "2026-09-03",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v772",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-09-03",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v773",
+      "device": "d53",
+      "venue": "v1",
+      "at": "2026-09-03",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v774",
+      "device": "d54",
+      "venue": "v2",
+      "at": "2026-09-03",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v775",
+      "device": "d55",
+      "venue": "v3",
+      "at": "2026-09-03",
+      "activity": "match",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v776",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-09-03",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v777",
+      "device": "d57",
+      "venue": "v1",
+      "at": "2026-09-03",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v778",
+      "device": "d58",
+      "venue": "v2",
+      "at": "2026-09-03",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v779",
+      "device": "d59",
+      "venue": "v3",
+      "at": "2026-09-03",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v780",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-09-04",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v781",
+      "device": "d61",
+      "venue": "v1",
+      "at": "2026-09-04",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v782",
+      "device": "d62",
+      "venue": "v2",
+      "at": "2026-09-04",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v783",
+      "device": "d63",
+      "venue": "v3",
+      "at": "2026-09-04",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v784",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-09-04",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v785",
+      "device": "d65",
+      "venue": "v1",
+      "at": "2026-09-04",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v786",
+      "device": "d66",
+      "venue": "v2",
+      "at": "2026-09-04",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v787",
+      "device": "d67",
+      "venue": "v3",
+      "at": "2026-09-04",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v788",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-09-04",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v789",
+      "device": "d69",
+      "venue": "v1",
+      "at": "2026-09-04",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v790",
+      "device": "d70",
+      "venue": "v2",
+      "at": "2026-09-04",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v791",
+      "device": "d71",
+      "venue": "v3",
+      "at": "2026-09-04",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v792",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-09-05",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v793",
+      "device": "d73",
+      "venue": "v1",
+      "at": "2026-09-05",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v794",
+      "device": "d74",
+      "venue": "v2",
+      "at": "2026-09-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v795",
+      "device": "d75",
+      "venue": "v3",
+      "at": "2026-09-05",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v796",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-09-05",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v797",
+      "device": "d77",
+      "venue": "v1",
+      "at": "2026-09-05",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v798",
+      "device": "d78",
+      "venue": "v2",
+      "at": "2026-09-05",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v799",
+      "device": "d79",
+      "venue": "v3",
+      "at": "2026-09-05",
+      "activity": "mall",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v800",
+      "device": "family0",
+      "venue": "v0",
+      "at": "2026-09-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v801",
+      "device": "d81",
+      "venue": "v1",
+      "at": "2026-09-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v802",
+      "device": "d82",
+      "venue": "v2",
+      "at": "2026-09-05",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v803",
+      "device": "d83",
+      "venue": "v3",
+      "at": "2026-09-05",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v804",
+      "device": "family4",
+      "venue": "v0",
+      "at": "2026-09-06",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v805",
+      "device": "d85",
+      "venue": "v1",
+      "at": "2026-09-06",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v806",
+      "device": "d86",
+      "venue": "v2",
+      "at": "2026-09-06",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v807",
+      "device": "d87",
+      "venue": "v3",
+      "at": "2026-09-06",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v808",
+      "device": "family8",
+      "venue": "v0",
+      "at": "2026-09-06",
+      "activity": "other",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v809",
+      "device": "d89",
+      "venue": "v1",
+      "at": "2026-09-06",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v810",
+      "device": "d90",
+      "venue": "v2",
+      "at": "2026-09-06",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v811",
+      "device": "d91",
+      "venue": "v3",
+      "at": "2026-09-06",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v812",
+      "device": "family12",
+      "venue": "v0",
+      "at": "2026-09-06",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v813",
+      "device": "d93",
+      "venue": "v1",
+      "at": "2026-09-06",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v814",
+      "device": "d94",
+      "venue": "v2",
+      "at": "2026-09-06",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v815",
+      "device": "d95",
+      "venue": "v3",
+      "at": "2026-09-06",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v816",
+      "device": "family16",
+      "venue": "v0",
+      "at": "2026-09-07",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v817",
+      "device": "d97",
+      "venue": "v1",
+      "at": "2026-09-07",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v818",
+      "device": "d98",
+      "venue": "v2",
+      "at": "2026-09-07",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v819",
+      "device": "d99",
+      "venue": "v3",
+      "at": "2026-09-07",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v820",
+      "device": "family20",
+      "venue": "v0",
+      "at": "2026-09-07",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v821",
+      "device": "d101",
+      "venue": "v1",
+      "at": "2026-09-07",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v822",
+      "device": "d102",
+      "venue": "v2",
+      "at": "2026-09-07",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v823",
+      "device": "d103",
+      "venue": "v3",
+      "at": "2026-09-07",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v824",
+      "device": "family24",
+      "venue": "v0",
+      "at": "2026-09-07",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v825",
+      "device": "d105",
+      "venue": "v1",
+      "at": "2026-09-07",
+      "activity": "mall",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v826",
+      "device": "d106",
+      "venue": "v2",
+      "at": "2026-09-07",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v827",
+      "device": "d107",
+      "venue": "v3",
+      "at": "2026-09-07",
+      "activity": "exercise",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v828",
+      "device": "family28",
+      "venue": "v0",
+      "at": "2026-09-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v829",
+      "device": "d109",
+      "venue": "v1",
+      "at": "2026-09-08",
+      "activity": "other",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v830",
+      "device": "d110",
+      "venue": "v2",
+      "at": "2026-09-08",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v831",
+      "device": "d111",
+      "venue": "v3",
+      "at": "2026-09-08",
+      "activity": "match",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v832",
+      "device": "family32",
+      "venue": "v0",
+      "at": "2026-09-08",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v833",
+      "device": "d113",
+      "venue": "v1",
+      "at": "2026-09-08",
+      "activity": "exercise",
+      "cents": 4000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v834",
+      "device": "d114",
+      "venue": "v2",
+      "at": "2026-09-08",
+      "activity": "other",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v835",
+      "device": "d115",
+      "venue": "v3",
+      "at": "2026-09-08",
+      "activity": "exercise",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v836",
+      "device": "family36",
+      "venue": "v0",
+      "at": "2026-09-08",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v837",
+      "device": "d117",
+      "venue": "v1",
+      "at": "2026-09-08",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v838",
+      "device": "d118",
+      "venue": "v2",
+      "at": "2026-09-08",
+      "activity": "match",
+      "cents": 0
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v839",
+      "device": "d119",
+      "venue": "v3",
+      "at": "2026-09-08",
+      "activity": "mall",
+      "cents": 8000
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p0",
+      "devices": [
+        "d0"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p13",
+      "devices": [
+        "d13"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p26",
+      "devices": [
+        "d26"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p39",
+      "devices": [
+        "d39"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p52",
+      "devices": [
+        "d52"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p65",
+      "devices": [
+        "d65"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p78",
+      "devices": [
+        "d78"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p91",
+      "devices": [
+        "d91"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p104",
+      "devices": [
+        "d104"
+      ]
+    }
+  ],
+  [
+    "identity.split",
+    {
+      "id": "p117",
+      "devices": [
+        "d117"
+      ]
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p0"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p17"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p34"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p51"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p68"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p85"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p102"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p119"
+    }
+  ]
+]

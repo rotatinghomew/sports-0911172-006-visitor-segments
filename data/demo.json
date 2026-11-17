@@ -1,0 +1,64 @@
+[
+  [
+    "identity.connect",
+    {
+      "id": "p1",
+      "devices": [
+        "d1"
+      ]
+    }
+  ],
+  [
+    "identity.connect",
+    {
+      "id": "p2",
+      "devices": [
+        "d1",
+        "d2"
+      ]
+    }
+  ],
+  [
+    "visits.record",
+    {
+      "id": "v1",
+      "device": "d1",
+      "venue": "north",
+      "at": "2026-10-17",
+      "activity": "match",
+      "cents": 10000
+    }
+  ],
+  [
+    "audiences.save",
+    {
+      "id": "a1",
+      "name": "周末观众",
+      "members": [
+        "p1",
+        "p2"
+      ],
+      "reason": "人工报名名单"
+    }
+  ],
+  [
+    "outreach.queue",
+    {
+      "id": "m1",
+      "audience": "a1",
+      "content": "周末运动开放日"
+    }
+  ],
+  [
+    "identity.withdraw",
+    {
+      "id": "p1"
+    }
+  ],
+  [
+    "outreach.send",
+    {
+      "id": "m1"
+    }
+  ]
+]
