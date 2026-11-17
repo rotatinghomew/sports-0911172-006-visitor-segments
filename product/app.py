@@ -7,12 +7,13 @@ from .identity import Identity
 from .visits import Visits
 from .audiences import Audiences
 from .outreach import Outreach
+from .segments import Segments
 
 
 class Application:
     def __init__(self, path=':memory:'):
         self.store=Store(path)
-        self.services={'identity':Identity(self.store),'visits':Visits(self.store),'audiences':Audiences(self.store),'outreach':Outreach(self.store)}
+        self.services={'identity':Identity(self.store),'visits':Visits(self.store),'audiences':Audiences(self.store),'outreach':Outreach(self.store),'segments':Segments(self.store)}
 
     def execute(self, command, arguments):
         service, separator, operation=command.partition('.')
